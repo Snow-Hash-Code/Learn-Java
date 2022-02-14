@@ -59,7 +59,7 @@ public class InterfacesJava implements WatterBottleInterface, Amb{
         ex.fillUp();
         ex.sayHello();
     }
-
+    
     @Override
     public void fillUp() {
         System.out.println("It is filled!");
